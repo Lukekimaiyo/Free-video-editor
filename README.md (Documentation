@@ -1,0 +1,27 @@
+# Video Editing Website
+
+This project is a video editing website that allows users to apply speed filters and custom filters to their videos.
+
+## Features
+
+- Apply Speed Filter: Change the speed of a video.
+- Apply Custom Filters: Implement and apply custom filters to enhance videos.
+
+## Getting Started
+
+1. Clone this repository: `git clone https://github.com/your-username/your-repo.git`
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the video editing script: `python video_editor.py`
+
+## Usage
+
+- Modify the `video_editor.py` script to add more features.
+- Customize the filters and their implementations as needed.
+
+## Contributions
+
+Contributions are welcome! Feel free to submit pull requests or open issues.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE.md) - see the [LICENSE.md](LICENSE.md) file for details.
